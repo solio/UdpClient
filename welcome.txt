@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 LOL.Now I modified the welcome.txt.bye bye.
 I don't know how to use Git.
+=======
+bye bye.
+>>>>>>> 343eebbd011ec9a5d819d1c8f4a798aedb3eaa51
